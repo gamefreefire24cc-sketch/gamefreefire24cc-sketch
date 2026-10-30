@@ -1,36 +1,63 @@
 <div align="center">
 
-<!-- Animated Typing Header -->
 <a href="https://github.com/gamefreefire24cc-sketch">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=32&duration=2800&pause=2000&color=6C63FF&center=true&vCenter=true&width=600&lines=Hi%2C+I'm+Jaber+Islam;Full-Stack+Developer;Python+Enthusiast;Building+Scalable+%26+Clean+Solutions" alt="Typing SVG" />
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=28&duration=3000&pause=1200&color=6C63FF&center=true&vCenter=true&width=700&lines=Hi%2C+I'm+Jaber+Islam+%F0%9F%91%8B;Full-Stack+Developer;Python+Enthusiast;Building+Scalable+%26+Clean+Solutions" alt="Typing SVG" />
 </a>
 
-<!-- Responsive Banner (Light/Dark Mode) -->
 <picture>
-  <source media="(prefers-color-scheme: dark)" srcset="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=6,11,20&height=180&section=header&text=Jaber%20Islam&fontSize=42&fontColor=fff&animation=twinkling&fontAlignY=32&desc=Full-Stack%20Developer%20%7C%20Python%20Enthusiast&descSize=16&descAlignY=52" />
-  <source media="(prefers-color-scheme: light)" srcset="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=6,11,20&height=180&section=header&text=Jaber%20Islam&fontSize=42&fontColor=333&animation=twinkling&fontAlignY=32&desc=Full-Stack%20Developer%20%7C%20Python%20Enthusiast&descSize=16&descAlignY=52" />
-  <img alt="Profile Banner" src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=6,11,20&height=180&section=header&text=Jaber%20Islam&fontSize=42&fontColor=fff&animation=twinkling&fontAlignY=32&desc=Full-Stack%20Developer%20%7C%20Python%20Enthusiast&descSize=16&descAlignY=52" width="100%" />
+  <source media="(prefers-color-scheme: dark)" srcset="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=6,11,20&height=200&section=header&text=Jaber%20Islam&fontSize=50&fontColor=fff&animation=fadeIn&fontAlignY=36&desc=Full-Stack%20Developer%20%7C%20Python%20Enthusiast&descSize=18&descAlignY=58" />
+  <source media="(prefers-color-scheme: light)" srcset="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=6,11,20&height=200&section=header&text=Jaber%20Islam&fontSize=50&fontColor=fff&animation=fadeIn&fontAlignY=36&desc=Full-Stack%20Developer%20%7C%20Python%20Enthusiast&descSize=18&descAlignY=58" />
+  <img alt="Banner" src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=6,11,20&height=200&section=header&text=Jaber%20Islam&fontSize=50&fontColor=fff&animation=fadeIn&fontAlignY=36&desc=Full-Stack%20Developer%20%7C%20Python%20Enthusiast&descSize=18&descAlignY=58" width="100%" />
 </picture>
 
-<!-- Social & Contact Badges -->
-[![Mastodon](https://img.shields.io/badge/Mastodon-6364FF?style=for-the-badge&logo=mastodon&logoColor=white)](https://mastodon.social/@Jaber%20Islam)
-[![Email](https://img.shields.io/badge/Email-EA4335?style=for-the-badge&logo=gmail&logoColor=white)](mailto:mdjaberulislam52@gmail.com)
-[![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/gamefreefire24cc-sketch)
+<p>
+  <img src="https://komarev.com/ghpvc/?username=gamefreefire24cc-sketch&label=Profile%20Views&color=6C63FF&style=for-the-badge" alt="Profile views" />
+  <img src="https://img.shields.io/github/followers/gamefreefire24cc-sketch?label=Followers&style=for-the-badge&logo=github&color=6C63FF" alt="Followers" />
+  <img src="https://img.shields.io/github/stars/gamefreefire24cc-sketch?label=Stars&style=for-the-badge&logo=github&color=6C63FF" alt="Stars" />
+</p>
+
+<p>
+  <a href="mailto:mdjaberulislam52@gmail.com"><img src="https://img.shields.io/badge/Email-EA4335?style=for-the-badge&logo=gmail&logoColor=white" alt="Email" /></a>
+  <a href="https://github.com/gamefreefire24cc-sketch"><img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white" alt="GitHub" /></a>
+</p>
 
 </div>
 
 ---
 
-## 👋 About Me
+## 👨‍💻 About Me
+
+<table>
+<tr>
+<td width="60%" valign="top">
 
 > *"Clean code always looks like it was written by someone who cares."*
 
-I'm a full-stack developer focused on building **scalable web applications**, **functional mobile apps**, and **clean Python automation**. I value readable code, thoughtful architecture, and shipping things that actually work.
+I'm a **full-stack developer** who builds scalable web applications, functional mobile apps and clean Python automation. I care about readable code, solid architecture and shipping things that actually work.
 
 - 🔭 Currently building end-to-end full-stack applications
-- 🌱 Exploring modern tooling, performance optimization, and developer experience
-- 💬 Ask me about **Python, JavaScript/TypeScript, or backend architecture**
-- ⚡ Fun fact: I automate the boring stuff so I can focus on the interesting stuff
+- 🌱 Exploring modern tooling, performance and developer experience
+- 💬 Ask me about **Python, JavaScript/TypeScript and backend architecture**
+- ⚡ I automate the boring stuff so I can focus on the interesting stuff
+- 🤝 Open to collaboration and freelance work
+
+</td>
+<td width="40%" valign="top">
+
+```python
+class JaberIslam:
+    role = "Full-Stack Developer"
+    languages = ["Python", "JS/TS", "Go"]
+    focus = ["Scalable APIs", "Clean UI"]
+    motto = "Ship clean, ship fast"
+
+    def get_to_work(self):
+        return "Let's build something great!"
+```
+
+</td>
+</tr>
+</table>
 
 ---
 
@@ -38,53 +65,25 @@ I'm a full-stack developer focused on building **scalable web applications**, **
 
 <div align="center">
 
-<table>
-<tr>
-<td valign="top" width="50%">
+**Languages**
 
-### 💻 Languages
-![Python](https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white)
-![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=flat-square&logo=javascript&logoColor=black)
-![TypeScript](https://img.shields.io/badge/TypeScript-3178C6?style=flat-square&logo=typescript&logoColor=white)
-![Go](https://img.shields.io/badge/Go-00ADD8?style=flat-square&logo=go&logoColor=white)
-![Java](https://img.shields.io/badge/Java-ED8B00?style=flat-square&logo=openjdk&logoColor=white)
-![Kotlin](https://img.shields.io/badge/Kotlin-7F52FF?style=flat-square&logo=kotlin&logoColor=white)
-![C++](https://img.shields.io/badge/C%2B%2B-00599C?style=flat-square&logo=c%2B%2B&logoColor=white)
-![Lua](https://img.shields.io/badge/Lua-2C2D72?style=flat-square&logo=lua&logoColor=white)
+<img src="https://skillicons.dev/icons?i=py,js,ts,go,java,kotlin,cpp,lua&perline=8" alt="Languages" />
 
-### 🎨 Frontend
-![React](https://img.shields.io/badge/React-61DAFB?style=flat-square&logo=react&logoColor=black)
-![Next.js](https://img.shields.io/badge/Next.js-000000?style=flat-square&logo=nextdotjs&logoColor=white)
-![Nuxt](https://img.shields.io/badge/Nuxt-00DC82?style=flat-square&logo=nuxtdotjs&logoColor=white)
-![Vue](https://img.shields.io/badge/Vue-4FC08D?style=flat-square&logo=vuedotjs&logoColor=white)
-![Tailwind](https://img.shields.io/badge/Tailwind-06B6D4?style=flat-square&logo=tailwindcss&logoColor=white)
-![Bootstrap](https://img.shields.io/badge/Bootstrap-7952B3?style=flat-square&logo=bootstrap&logoColor=white)
+**Frontend**
 
-</td>
-<td valign="top" width="50%">
+<img src="https://skillicons.dev/icons?i=react,nextjs,nuxt,vue,tailwind,bootstrap,html,css&perline=8" alt="Frontend" />
 
-### ⚙️ Backend & APIs
-![Node.js](https://img.shields.io/badge/Node.js-339933?style=flat-square&logo=nodedotjs&logoColor=white)
-![NestJS](https://img.shields.io/badge/NestJS-E0234E?style=flat-square&logo=nestjs&logoColor=white)
-![FastAPI](https://img.shields.io/badge/FastAPI-009688?style=flat-square&logo=fastapi&logoColor=white)
-![GraphQL](https://img.shields.io/badge/GraphQL-E10098?style=flat-square&logo=graphql&logoColor=white)
-![Apollo](https://img.shields.io/badge/Apollo-311C87?style=flat-square&logo=apollographql&logoColor=white)
+**Backend & APIs**
 
-### 🗄️ Data & DevOps
-![PostgreSQL](https://img.shields.io/badge/PostgreSQL-4169E1?style=flat-square&logo=postgresql&logoColor=white)
-![MongoDB](https://img.shields.io/badge/MongoDB-47A248?style=flat-square&logo=mongodb&logoColor=white)
-![Docker](https://img.shields.io/badge/Docker-2496ED?style=flat-square&logo=docker&logoColor=white)
-![Git](https://img.shields.io/badge/Git-F05032?style=flat-square&logo=git&logoColor=white)
-![Linux](https://img.shields.io/badge/Linux-FCC624?style=flat-square&logo=linux&logoColor=black)
+<img src="https://skillicons.dev/icons?i=nodejs,nestjs,fastapi,graphql,apollo&perline=8" alt="Backend" />
 
-### 📊 Data & ML
-![Pandas](https://img.shields.io/badge/Pandas-150458?style=flat-square&logo=pandas&logoColor=white)
-![NumPy](https://img.shields.io/badge/NumPy-013243?style=flat-square&logo=numpy&logoColor=white)
-![scikit-learn](https://img.shields.io/badge/scikit--learn-F7931E?style=flat-square&logo=scikitlearn&logoColor=white)
+**Databases & DevOps**
 
-</td>
-</tr>
-</table>
+<img src="https://skillicons.dev/icons?i=postgres,mongodb,docker,git,github,linux&perline=8" alt="DevOps" />
+
+**Data & Machine Learning**
+
+<img src="https://skillicons.dev/icons?i=pandas,numpy,sklearn&perline=8" alt="Data" />
 
 </div>
 
@@ -96,26 +95,24 @@ I'm a full-stack developer focused on building **scalable web applications**, **
 
 | 🏆 Project | 📝 Description | 🛠️ Stack |
 |:---:|:---|:---|
-| **[Project One](https://github.com/gamefreefire24cc-sketch)** | One-line description of what it does and the problem it solves. | `Python` · `FastAPI` · `PostgreSQL` |
-| **[Project Two](https://github.com/gamefreefire24cc-sketch)** | One-line description highlighting a key feature or metric. | `React` · `Node.js` · `Docker` |
-| **[Project Three](https://github.com/gamefreefire24cc-sketch)** | One-line description of the outcome or impact. | `Next.js` · `Tailwind` |
+| **[Project One](https://github.com/gamefreefire24cc-sketch/repo-name)** | What it does and the problem it solves. | `Python` · `FastAPI` · `PostgreSQL` |
+| **[Project Two](https://github.com/gamefreefire24cc-sketch/repo-name)** | Key feature or measurable result. | `React` · `Node.js` · `Docker` |
+| **[Project Three](https://github.com/gamefreefire24cc-sketch/repo-name)** | Outcome or impact. | `Next.js` · `Tailwind` |
 
 </div>
 
-> 💡 **Tip:** Replace the placeholders above with your best 2–3 repositories for maximum impact.
-
 ---
 
-## 📊 GitHub Activity
+## 📊 GitHub Stats
 
 <div align="center">
 
-<!-- Stats & Languages -->
-<img height="165" src="https://github-readme-stats.shion.dev/api?username=gamefreefire24cc-sketch&theme=github_dark&hide_border=true&include_all_commits=true&count_private=true&show_icons=true" alt="GitHub Stats" />
-<img height="165" src="https://github-readme-stats.shion.dev/api/top-langs/?username=gamefreefire24cc-sketch&theme=github_dark&hide_border=true&layout=compact&langs_count=8" alt="Top Languages" />
+<img height="170" src="https://github-readme-stats.vercel.app/api?username=gamefreefire24cc-sketch&theme=tokyonight&hide_border=true&include_all_commits=true&count_private=true&show_icons=true" alt="GitHub Stats" />
+<img height="170" src="https://github-readme-stats.vercel.app/api/top-langs/?username=gamefreefire24cc-sketch&theme=tokyonight&hide_border=true&layout=compact&langs_count=8" alt="Top Languages" />
 
-<!-- Streak Stats -->
-<img height="165" src="https://streak-stats.demolab.com/?user=gamefreefire24cc-sketch&theme=github-dark-blue&hide_border=true" alt="Streak Stats" />
+<br/>
+
+<img src="https://streak-stats.demolab.com/?user=gamefreefire24cc-sketch&theme=tokyonight&hide_border=true" alt="Streak Stats" />
 
 </div>
 
@@ -125,7 +122,7 @@ I'm a full-stack developer focused on building **scalable web applications**, **
 
 <div align="center">
 
-![Trophies](https://github-profile-trophy.vercel.app/?username=gamefreefire24cc-sketch&theme=radical&no-frame=true&no-bg=true&margin-w=8&row=1)
+<img src="https://github-profile-trophy.vercel.app/?username=gamefreefire24cc-sketch&theme=tokyonight&no-frame=true&no-bg=true&margin-w=8&row=1" alt="Trophies" />
 
 </div>
 
@@ -135,7 +132,21 @@ I'm a full-stack developer focused on building **scalable web applications**, **
 
 <div align="center">
 
-[![Jaber's github activity graph](https://github-readme-activity-graph.vercel.app/graph?username=gamefreefire24cc-sketch&theme=github-compact&hide_border=true&area=true)](https://github.com/gamefreefire24cc-sketch)
+<img src="https://github-readme-activity-graph.vercel.app/graph?username=gamefreefire24cc-sketch&theme=tokyo-night&hide_border=true&area=true" alt="Activity Graph" />
+
+</div>
+
+---
+
+## 🐍 Contribution Snake
+
+<div align="center">
+
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/gamefreefire24cc-sketch/gamefreefire24cc-sketch/output/github-contribution-grid-snake-dark.svg" />
+  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/gamefreefire24cc-sketch/gamefreefire24cc-sketch/output/github-contribution-grid-snake.svg" />
+  <img alt="Contribution snake" src="https://raw.githubusercontent.com/gamefreefire24cc-sketch/gamefreefire24cc-sketch/output/github-contribution-grid-snake.svg" />
+</picture>
 
 </div>
 
@@ -145,14 +156,13 @@ I'm a full-stack developer focused on building **scalable web applications**, **
 
 <div align="center">
 
-I'm open to **collaboration**, **freelance work**, and **interesting problems**.
+I'm open to **collaboration**, **freelance work** and **interesting problems**.
 
-[![Say Hello](https://img.shields.io/badge/Say%20Hello-EA4335?style=for-the-badge&logo=gmail&logoColor=white)](mailto:mdjaberulislam52@gmail.com)
-[![Follow on GitHub](https://img.shields.io/badge/Follow-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/gamefreefire24cc-sketch)
+<a href="mailto:mdjaberulislam52@gmail.com"><img src="https://img.shields.io/badge/Say%20Hello-EA4335?style=for-the-badge&logo=gmail&logoColor=white" alt="Say Hello" /></a>
+<a href="https://github.com/gamefreefire24cc-sketch"><img src="https://img.shields.io/badge/Follow-181717?style=for-the-badge&logo=github&logoColor=white" alt="Follow" /></a>
 
-<br/>
+<br/><br/>
 
-*Visitor Count*  
-![Visitors](https://komarev.com/ghpvc/?username=gamefreefire24cc-sketch&color=6C63FF&style=flat-square)
+<img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=6,11,20&height=100&section=footer" width="100%" alt="Footer" />
 
 </div>
