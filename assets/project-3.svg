@@ -1,0 +1,19 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="288" height="200" viewBox="0 0 288 200">
+<defs>
+<linearGradient id="sh" x1="0" y1="0" x2="1" y2="0"><stop offset="0" stop-color="#fff" stop-opacity="0"/><stop offset="0.5" stop-color="#fff" stop-opacity="0.10"/><stop offset="1" stop-color="#fff" stop-opacity="0"/></linearGradient>
+<clipPath id="c"><rect x="2" y="2" width="284" height="196" rx="16"/></clipPath>
+</defs>
+<rect x="2" y="2" width="284" height="196" rx="16" fill="#12122a" stroke="#2c2c58" stroke-width="2"/>
+<g clip-path="url(#c)">
+<rect x="2" y="2" width="284" height="5" fill="#ff6ac1"/>
+<rect x="-120" y="0" width="100" height="200" fill="url(#sh)"><animate attributeName="x" values="-120;320" dur="5s" begin="3s" repeatCount="indefinite"/></rect>
+</g>
+<path d="M22 30h9l3 4h14a2 2 0 0 1 2 2v14a2 2 0 0 1-2 2H22a2 2 0 0 1-2-2V32a2 2 0 0 1 2-2z" fill="#ff6ac1" fill-opacity="0.9"/>
+<text x="60" y="50" font-family="'Segoe UI','Helvetica Neue',Arial,sans-serif" font-size="19" font-weight="700" fill="#f2f3ff">Project Three</text>
+<text x="22" y="86" font-family="'Segoe UI','Helvetica Neue',Arial,sans-serif" font-size="13" fill="#9aa0d8">The outcome or impact</text>
+<text x="22" y="105" font-family="'Segoe UI','Helvetica Neue',Arial,sans-serif" font-size="13" fill="#9aa0d8">this project delivered.</text>
+<g transform="translate(22,128)"><rect width="74" height="24" rx="12" fill="#ff6ac1" fill-opacity="0.14" stroke="#ff6ac1" stroke-opacity="0.6"/><text x="37" y="16" text-anchor="middle" font-family="'Fira Code','SFMono-Regular',Consolas,'Liberation Mono',monospace" font-size="11" fill="#e1e3ff">Next.js</text></g><g transform="translate(104,128)"><rect width="81" height="24" rx="12" fill="#ff6ac1" fill-opacity="0.14" stroke="#ff6ac1" stroke-opacity="0.6"/><text x="41" y="16" text-anchor="middle" font-family="'Fira Code','SFMono-Regular',Consolas,'Liberation Mono',monospace" font-size="11" fill="#e1e3ff">Tailwind</text></g>
+<line x1="22" y1="166" x2="266" y2="166" stroke="#2c2c58"/>
+<text x="22" y="187" font-family="'Fira Code','SFMono-Regular',Consolas,'Liberation Mono',monospace" font-size="12" fill="#ff6ac1" letter-spacing="2">VIEW PROJECT</text>
+<text x="266" y="187" text-anchor="end" font-family="'Segoe UI','Helvetica Neue',Arial,sans-serif" font-size="16" fill="#ff6ac1">→<animate attributeName="x" values="262;270;262" dur="1.8s" repeatCount="indefinite"/></text>
+</svg>

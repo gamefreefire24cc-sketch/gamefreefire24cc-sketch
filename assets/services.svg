@@ -1,0 +1,33 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="900" height="198" viewBox="0 0 900 198"><defs><linearGradient id="b" x1="0" y1="0" x2="1" y2="0"><stop offset="0" stop-color="#7c5cff"><animate attributeName="stop-color" values="#7c5cff;#00d4ff;#ff6ac1;#7c5cff" dur="8s" repeatCount="indefinite"/></stop><stop offset="0.5" stop-color="#00d4ff"><animate attributeName="stop-color" values="#00d4ff;#ff6ac1;#7c5cff;#00d4ff" dur="8s" repeatCount="indefinite"/></stop><stop offset="1" stop-color="#ff6ac1"><animate attributeName="stop-color" values="#ff6ac1;#7c5cff;#00d4ff;#ff6ac1" dur="8s" repeatCount="indefinite"/></stop></linearGradient></defs><g transform="translate(0,0)">
+<rect x="1" y="1" width="205" height="196" rx="16" fill="#13132b" stroke="#2c2c58" stroke-width="2"/>
+<rect x="1" y="1" width="205" height="5" rx="2.5" fill="url(#b)"><animate attributeName="opacity" values="1;0.3;1" dur="3s" begin="0.0s" repeatCount="indefinite"/></rect>
+<rect x="22" y="26" width="56" height="56" rx="15" fill="#1d1d44" stroke="url(#b)" stroke-width="1.5"/>
+<g transform="translate(30,34) scale(0.98)" fill="none" stroke="#c5c9ff" stroke-width="2.6" stroke-linecap="round"><rect x="4" y="7" width="32" height="26" rx="4"/><path d="M4 15H36"/><path d="M9 11h.01M14 11h.01"/></g>
+<text x="186" y="52" text-anchor="end" font-family="'Segoe UI','Helvetica Neue',Arial,sans-serif" font-size="30" font-weight="800" fill="#7c5cff" opacity="0.3">01</text>
+<text x="22" y="122" font-family="'Segoe UI','Helvetica Neue',Arial,sans-serif" font-size="16" font-weight="700" letter-spacing="2" fill="#eceeff">WEB APPS</text>
+<text x="22" y="150" font-family="'Segoe UI','Helvetica Neue',Arial,sans-serif" font-size="13" fill="#a9afe6">React · Next.js</text>
+<text x="22" y="170" font-family="'Segoe UI','Helvetica Neue',Arial,sans-serif" font-size="13" fill="#7e84c4">Vue · Nuxt · Tailwind</text></g><g transform="translate(231,0)">
+<rect x="1" y="1" width="205" height="196" rx="16" fill="#13132b" stroke="#2c2c58" stroke-width="2"/>
+<rect x="1" y="1" width="205" height="5" rx="2.5" fill="url(#b)"><animate attributeName="opacity" values="1;0.3;1" dur="3s" begin="0.5s" repeatCount="indefinite"/></rect>
+<rect x="22" y="26" width="56" height="56" rx="15" fill="#1d1d44" stroke="url(#b)" stroke-width="1.5"/>
+<g transform="translate(30,34) scale(0.98)" fill="none" stroke="#c5c9ff" stroke-width="2.6" stroke-linecap="round"><rect x="5" y="6" width="30" height="11" rx="3"/><rect x="5" y="23" width="30" height="11" rx="3"/><path d="M11 11.5h.01M11 28.5h.01"/></g>
+<text x="186" y="52" text-anchor="end" font-family="'Segoe UI','Helvetica Neue',Arial,sans-serif" font-size="30" font-weight="800" fill="#7c5cff" opacity="0.3">02</text>
+<text x="22" y="122" font-family="'Segoe UI','Helvetica Neue',Arial,sans-serif" font-size="16" font-weight="700" letter-spacing="2" fill="#eceeff">BACKEND &amp; APIs</text>
+<text x="22" y="150" font-family="'Segoe UI','Helvetica Neue',Arial,sans-serif" font-size="13" fill="#a9afe6">FastAPI · NestJS</text>
+<text x="22" y="170" font-family="'Segoe UI','Helvetica Neue',Arial,sans-serif" font-size="13" fill="#7e84c4">GraphQL · Node.js</text></g><g transform="translate(462,0)">
+<rect x="1" y="1" width="205" height="196" rx="16" fill="#13132b" stroke="#2c2c58" stroke-width="2"/>
+<rect x="1" y="1" width="205" height="5" rx="2.5" fill="url(#b)"><animate attributeName="opacity" values="1;0.3;1" dur="3s" begin="1.0s" repeatCount="indefinite"/></rect>
+<rect x="22" y="26" width="56" height="56" rx="15" fill="#1d1d44" stroke="url(#b)" stroke-width="1.5"/>
+<g transform="translate(30,34) scale(0.98)" fill="none" stroke="#c5c9ff" stroke-width="2.6" stroke-linecap="round"><path d="M22 4L8 23h10l-2 13 16-21H22z" stroke-linejoin="round"/></g>
+<text x="186" y="52" text-anchor="end" font-family="'Segoe UI','Helvetica Neue',Arial,sans-serif" font-size="30" font-weight="800" fill="#7c5cff" opacity="0.3">03</text>
+<text x="22" y="122" font-family="'Segoe UI','Helvetica Neue',Arial,sans-serif" font-size="16" font-weight="700" letter-spacing="2" fill="#eceeff">AUTOMATION</text>
+<text x="22" y="150" font-family="'Segoe UI','Helvetica Neue',Arial,sans-serif" font-size="13" fill="#a9afe6">Python scripts</text>
+<text x="22" y="170" font-family="'Segoe UI','Helvetica Neue',Arial,sans-serif" font-size="13" fill="#7e84c4">Tooling &amp; workflows</text></g><g transform="translate(693,0)">
+<rect x="1" y="1" width="205" height="196" rx="16" fill="#13132b" stroke="#2c2c58" stroke-width="2"/>
+<rect x="1" y="1" width="205" height="5" rx="2.5" fill="url(#b)"><animate attributeName="opacity" values="1;0.3;1" dur="3s" begin="1.5s" repeatCount="indefinite"/></rect>
+<rect x="22" y="26" width="56" height="56" rx="15" fill="#1d1d44" stroke="url(#b)" stroke-width="1.5"/>
+<g transform="translate(30,34) scale(0.98)" fill="none" stroke="#c5c9ff" stroke-width="2.6" stroke-linecap="round"><path d="M6 34V6M6 34H35"/><rect x="11" y="20" width="5" height="10" rx="1"/><rect x="19" y="13" width="5" height="17" rx="1"/><rect x="27" y="8" width="5" height="22" rx="1"/></g>
+<text x="186" y="52" text-anchor="end" font-family="'Segoe UI','Helvetica Neue',Arial,sans-serif" font-size="30" font-weight="800" fill="#7c5cff" opacity="0.3">04</text>
+<text x="22" y="122" font-family="'Segoe UI','Helvetica Neue',Arial,sans-serif" font-size="16" font-weight="700" letter-spacing="2" fill="#eceeff">DATA &amp; ML</text>
+<text x="22" y="150" font-family="'Segoe UI','Helvetica Neue',Arial,sans-serif" font-size="13" fill="#a9afe6">Pandas · NumPy</text>
+<text x="22" y="170" font-family="'Segoe UI','Helvetica Neue',Arial,sans-serif" font-size="13" fill="#7e84c4">scikit-learn</text></g></svg>

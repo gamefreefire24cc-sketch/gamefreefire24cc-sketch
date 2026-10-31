@@ -1,0 +1,25 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="900" height="250" viewBox="0 0 900 250">
+<defs>
+<linearGradient id="bd" x1="0" y1="0" x2="1" y2="1"><stop offset="0" stop-color="#6c63ff"><animate attributeName="stop-color" values="#6c63ff;#00d4ff;#ff6ac1;#6c63ff" dur="8s" repeatCount="indefinite"/></stop><stop offset="1" stop-color="#ff6ac1"><animate attributeName="stop-color" values="#ff6ac1;#6c63ff;#00d4ff;#ff6ac1" dur="8s" repeatCount="indefinite"/></stop></linearGradient>
+<linearGradient id="av" x1="0" y1="0" x2="1" y2="1"><stop offset="0" stop-color="#6c63ff"/><stop offset="1" stop-color="#ff6ac1"/></linearGradient>
+<linearGradient id="tx" x1="0" y1="0" x2="1" y2="0"><stop offset="0" stop-color="#aab0ff"/><stop offset="1" stop-color="#ffb3e1"/></linearGradient>
+</defs>
+<rect x="2" y="2" width="896" height="246" rx="20" fill="#101026" stroke="url(#bd)" stroke-width="2"/>
+<circle cx="140" cy="125" r="84" fill="none" stroke="#2c2c58" stroke-width="1.5" stroke-dasharray="3 7"/>
+<g><animateTransform attributeName="transform" type="rotate" from="0 140 125" to="360 140 125" dur="14s" repeatCount="indefinite"/>
+<circle cx="224" cy="125" r="6" fill="#00d4ff"/><circle cx="56" cy="125" r="4" fill="#ff6ac1"/></g>
+<circle cx="140" cy="125" r="62" fill="url(#av)"/>
+<circle cx="140" cy="125" r="62" fill="none" stroke="#fff" stroke-opacity="0.25" stroke-width="3"/>
+<text x="140" y="142" text-anchor="middle" font-family="'Segoe UI','Helvetica Neue',Arial,sans-serif" font-size="46" font-weight="800" fill="#fff" letter-spacing="2">JI</text>
+<text x="290" y="70" font-family="'Segoe UI','Helvetica Neue',Arial,sans-serif" font-size="32" font-weight="800" fill="url(#tx)">Jaber Islam</text>
+<text x="290" y="98" font-family="'Segoe UI','Helvetica Neue',Arial,sans-serif" font-size="16" fill="#c9ccff">Full-Stack Developer  ·  Python Enthusiast</text>
+<line x1="290" y1="116" x2="860" y2="116" stroke="#2c2c58" stroke-width="1.5"/>
+<text x="290" y="150" font-family="'Fira Code','SFMono-Regular',Consolas,'Liberation Mono',monospace" font-size="12" fill="#6c63ff" letter-spacing="3">FOCUS</text>
+<text x="380" y="150" font-family="'Segoe UI','Helvetica Neue',Arial,sans-serif" font-size="15" fill="#e1e3ff">Scalable web apps  ·  Clean automation  ·  Readable code</text>
+<text x="290" y="183" font-family="'Fira Code','SFMono-Regular',Consolas,'Liberation Mono',monospace" font-size="12" fill="#00b8e6" letter-spacing="3">STACK</text>
+<text x="380" y="183" font-family="'Segoe UI','Helvetica Neue',Arial,sans-serif" font-size="15" fill="#e1e3ff">Python  ·  TypeScript  ·  React  ·  FastAPI  ·  PostgreSQL</text>
+<text x="290" y="216" font-family="'Fira Code','SFMono-Regular',Consolas,'Liberation Mono',monospace" font-size="12" fill="#ff6ac1" letter-spacing="3">STATUS</text>
+<circle cx="388" cy="211" r="5" fill="#27c93f"><animate attributeName="opacity" values="1;0.3;1" dur="1.8s" repeatCount="indefinite"/></circle>
+<circle cx="388" cy="211" r="5" fill="none" stroke="#27c93f"><animate attributeName="r" values="5;13" dur="1.8s" repeatCount="indefinite"/><animate attributeName="opacity" values="0.8;0" dur="1.8s" repeatCount="indefinite"/></circle>
+<text x="404" y="216" font-family="'Segoe UI','Helvetica Neue',Arial,sans-serif" font-size="15" fill="#e1e3ff">Open to collaboration &amp; freelance work</text>
+</svg>
