@@ -23,6 +23,11 @@
 <img src="assets/terminal.svg" width="100%" alt="Terminal intro" />
 
 <br/><br/>
+<img src="assets/title-highlights.svg" width="100%" alt="At a glance" />
+<br/>
+<img src="assets/highlights.svg" width="100%" alt="Highlights" />
+
+<br/><br/>
 <img src="assets/title-about.svg" width="100%" alt="About Me" />
 <br/>
 
@@ -97,6 +102,11 @@ class JaberIslam:
 <img src="assets/title-focus.svg" width="100%" alt="Core Focus" />
 <br/>
 <img src="assets/focus.svg" width="100%" alt="Core focus areas" />
+
+<br/>
+<img src="assets/title-radar.svg" width="100%" alt="Skill Radar" />
+<br/>
+<img src="assets/radar.svg" width="100%" alt="Skill radar chart" />
 
 <br/>
 <img src="assets/title-learning.svg" width="100%" alt="Learning Path and Goals" />
