@@ -13,20 +13,18 @@
   <img src="https://img.shields.io/github/created-at/gamefreefire24cc-sketch?label=Joined&style=for-the-badge&logo=github&color=6C63FF" alt="Joined" />
 </p>
 
-<p>
-  <a href="mailto:mdjaberulislam52@gmail.com"><img src="https://img.shields.io/badge/Email-EA4335?style=for-the-badge&logo=gmail&logoColor=white" alt="Email" /></a>
-  <a href="https://github.com/gamefreefire24cc-sketch"><img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white" alt="GitHub" /></a>
-</p>
-
 <img src="assets/divider.svg" width="100%" alt="" />
-
 <br/>
 
+<img src="assets/title-profile.svg" width="100%" alt="Profile" />
+<br/>
+<img src="assets/profile-card.svg" width="100%" alt="Profile card" />
+<br/><br/>
 <img src="assets/terminal.svg" width="100%" alt="Terminal intro" />
 
 <br/><br/>
-<img src="assets/title-about.svg" alt="About Me" />
-<br/><br/>
+<img src="assets/title-about.svg" width="100%" alt="About Me" />
+<br/>
 
 </div>
 
@@ -65,13 +63,15 @@ class JaberIslam:
 <div align="center">
 
 <br/>
-<img src="assets/title-services.svg" alt="What I Do" />
-<br/><br/>
+<img src="assets/title-services.svg" width="100%" alt="What I Do" />
+<br/>
 <img src="assets/services.svg" width="100%" alt="Services" />
 
-<br/><br/>
-<img src="assets/title-stack.svg" alt="Tech Stack" />
-<br/><br/>
+<br/>
+<img src="assets/title-stack.svg" width="100%" alt="Tech Stack" />
+<br/>
+<img src="assets/marquee.svg" width="100%" alt="Technologies" />
+<br/>
 
 **Languages**<br/>
 <img src="https://skillicons.dev/icons?i=py,js,ts,go,java,kotlin,cpp,lua&perline=8" alt="Languages" />
@@ -89,63 +89,36 @@ class JaberIslam:
 <img src="https://skillicons.dev/icons?i=pandas,numpy,sklearn&perline=8" alt="Data" />
 
 <br/>
-<img src="assets/title-focus.svg" alt="Core Focus" />
-<br/><br/>
+<img src="assets/title-orbit.svg" width="100%" alt="Tech Ecosystem" />
+<br/>
+<img src="assets/orbit.svg" width="100%" alt="Tech ecosystem orbit" />
+
+<br/>
+<img src="assets/title-focus.svg" width="100%" alt="Core Focus" />
+<br/>
 <img src="assets/focus.svg" width="100%" alt="Core focus areas" />
 
 <br/>
-<img src="assets/divider.svg" width="100%" alt="" />
+<img src="assets/title-learning.svg" width="100%" alt="Learning Path and Goals" />
 <br/>
-<img src="assets/title-learning.svg" alt="Learning and Goals" />
-<br/><br/>
-
-</div>
-
-<table width="100%">
-<tr>
-<td width="50%" valign="top">
-
-### 📚 Currently Learning
-
-- Advanced system design
-- Performance optimization
-- Cloud & container orchestration
-- Testing and CI/CD best practices
-
-</td>
-<td width="50%" valign="top">
-
-### 🎯 Goals
-
-- Ship 3 production-ready projects
-- Contribute to open source
-- Deepen backend architecture skills
-- Write more technical content
-
-</td>
-</tr>
-</table>
-
-<div align="center">
+<img src="assets/roadmap.svg" width="100%" alt="Roadmap" />
 
 <br/>
-<img src="assets/title-projects.svg" alt="Featured Projects" />
-<br/><br/>
-
-<a href="https://github.com/gamefreefire24cc-sketch/repo-one"><img src="https://github-readme-stats.vercel.app/api/pin/?username=gamefreefire24cc-sketch&repo=repo-one&theme=tokyonight&hide_border=true" alt="Project One" /></a>
-<a href="https://github.com/gamefreefire24cc-sketch/repo-two"><img src="https://github-readme-stats.vercel.app/api/pin/?username=gamefreefire24cc-sketch&repo=repo-two&theme=tokyonight&hide_border=true" alt="Project Two" /></a>
+<img src="assets/title-projects.svg" width="100%" alt="Featured Projects" />
 <br/>
-<a href="https://github.com/gamefreefire24cc-sketch/repo-three"><img src="https://github-readme-stats.vercel.app/api/pin/?username=gamefreefire24cc-sketch&repo=repo-three&theme=tokyonight&hide_border=true" alt="Project Three" /></a>
-<a href="https://github.com/gamefreefire24cc-sketch/repo-four"><img src="https://github-readme-stats.vercel.app/api/pin/?username=gamefreefire24cc-sketch&repo=repo-four&theme=tokyonight&hide_border=true" alt="Project Four" /></a>
 
-<br/><br/>
-<img src="assets/title-stats.svg" alt="GitHub Analytics" />
-<br/><br/>
+<a href="https://github.com/gamefreefire24cc-sketch/repo-one"><img src="assets/project-1.svg" width="32%" alt="Project One" /></a>
+<a href="https://github.com/gamefreefire24cc-sketch/repo-two"><img src="assets/project-2.svg" width="32%" alt="Project Two" /></a>
+<a href="https://github.com/gamefreefire24cc-sketch/repo-three"><img src="assets/project-3.svg" width="32%" alt="Project Three" /></a>
 
-<img height="170" src="https://github-readme-stats.vercel.app/api?username=gamefreefire24cc-sketch&theme=tokyonight&hide_border=true&include_all_commits=true&count_private=true&show_icons=true&rank_icon=github" alt="GitHub Stats" />
-<img height="170" src="https://github-readme-stats.vercel.app/api/top-langs/?username=gamefreefire24cc-sketch&theme=tokyonight&hide_border=true&layout=donut&langs_count=8" alt="Top Languages" />
 <br/>
-<img src="https://streak-stats.demolab.com/?user=gamefreefire24cc-sketch&theme=tokyonight&hide_border=true&border_radius=10" alt="Streak Stats" />
+<img src="assets/title-stats.svg" width="100%" alt="GitHub Analytics" />
+<br/>
+
+<img height="170" src="https://github-readme-stats.vercel.app/api?username=gamefreefire24cc-sketch&show_icons=true&include_all_commits=true&count_private=true&rank_icon=github&hide_border=true&bg_color=12122a&title_color=aab0ff&text_color=e1e3ff&icon_color=ff6ac1" alt="GitHub Stats" />
+<img height="170" src="https://github-readme-stats.vercel.app/api/top-langs/?username=gamefreefire24cc-sketch&layout=donut&langs_count=8&hide_border=true&bg_color=12122a&title_color=aab0ff&text_color=e1e3ff" alt="Top Languages" />
+<br/>
+<img src="https://streak-stats.demolab.com/?user=gamefreefire24cc-sketch&hide_border=true&border_radius=10&background=12122A&ring=6C63FF&fire=FF6AC1&currStreakNum=E1E3FF&sideNums=E1E3FF&currStreakLabel=AAB0FF&sideLabels=AAB0FF&dates=9AA0D8" alt="Streak Stats" />
 <br/>
 <img height="150" src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=gamefreefire24cc-sketch&theme=tokyonight" alt="Repos per language" />
 <img height="150" src="https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=gamefreefire24cc-sketch&theme=tokyonight" alt="Most commit language" />
@@ -154,12 +127,12 @@ class JaberIslam:
 <img height="150" src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=gamefreefire24cc-sketch&theme=tokyonight" alt="Profile details" />
 
 <br/><br/>
-<img src="assets/title-activity.svg" alt="Contributions" />
-<br/><br/>
+<img src="assets/title-activity.svg" width="100%" alt="Contributions" />
+<br/>
 
 <img src="https://github-profile-trophy.vercel.app/?username=gamefreefire24cc-sketch&theme=tokyonight&no-frame=true&no-bg=true&margin-w=8&row=1" alt="Trophies" />
 <br/><br/>
-<img src="https://github-readme-activity-graph.vercel.app/graph?username=gamefreefire24cc-sketch&theme=tokyo-night&hide_border=true&area=true&radius=10" alt="Activity Graph" />
+<img src="https://github-readme-activity-graph.vercel.app/graph?username=gamefreefire24cc-sketch&bg_color=12122a&color=aab0ff&line=6c63ff&point=ff6ac1&area_color=6c63ff&area=true&hide_border=true&radius=10" alt="Activity Graph" />
 <br/><br/>
 
 <picture>
@@ -169,18 +142,15 @@ class JaberIslam:
 </picture>
 
 <br/><br/>
-<img src="assets/divider.svg" width="100%" alt="" />
+<img src="assets/title-contact.svg" width="100%" alt="Get in touch" />
 <br/>
-<img src="assets/title-contact.svg" alt="Let's Connect" />
-<br/><br/>
+<img src="assets/contact.svg" width="100%" alt="Open to collaboration" />
+<br/>
 
-Open to **collaboration**, **freelance work** and **interesting problems**.
-
-<a href="mailto:mdjaberulislam52@gmail.com"><img src="https://img.shields.io/badge/Say%20Hello-EA4335?style=for-the-badge&logo=gmail&logoColor=white" alt="Say Hello" /></a>
-<a href="https://github.com/gamefreefire24cc-sketch"><img src="https://img.shields.io/badge/Follow-181717?style=for-the-badge&logo=github&logoColor=white" alt="Follow" /></a>
+<a href="mailto:mdjaberulislam52@gmail.com"><img src="https://img.shields.io/badge/Email-Say%20Hello-EA4335?style=for-the-badge&logo=gmail&logoColor=white" alt="Email" /></a>
+<a href="https://github.com/gamefreefire24cc-sketch"><img src="https://img.shields.io/badge/GitHub-Follow-181717?style=for-the-badge&logo=github&logoColor=white" alt="GitHub" /></a>
 
 <br/><br/>
-
 <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=14&duration=3500&pause=1500&color=8F94FB&center=true&vCenter=true&width=520&lines=Thanks+for+stopping+by!;Let's+turn+ideas+into+products." alt="Footer typing" />
 
 <img src="assets/footer.svg" width="100%" alt="" />
